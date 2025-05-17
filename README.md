@@ -12,8 +12,8 @@
 
 I’m a Second-year B.Tech student from India, diving into everything tech-related—from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee), I love turning bright ideas into reality, one project at a time!
 
-- 🔭 Currently on a journey to master the **Java Developer**.
-- 🧠 Passionate about **AI, ML**, and all things that make tech smarter.
+- 🔭 Currently on a journey to master the **Linux Developer**.
+- 🧠 Passionate about **Cybersecurity**, and all things that make tech smarter.
 - 📧 Get in touch: **aadityasundriyal0001@gmail.com**
 - ⚡ And when I’m not coding, you’ll probably find me binge-watching the latest drama—because sometimes, the best debugging instincts come from plot twists!
 
